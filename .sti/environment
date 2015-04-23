@@ -1,0 +1,2 @@
+HTTP_PROXY=http://squid.corp.redhat.com:3128
+HTTPS_PROXY=https://squid.corp.redhat.com:3128
